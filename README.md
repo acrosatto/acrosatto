@@ -1,7 +1,9 @@
 <h1 align="center">Hi! Welcome to my GitHub 😉</h1>
-<h3 align="center">My name is Ana Crosatto and I'm passionate about technology, neuroscience, astronomy and life in general. I have been learning programming since January 2022! I have travelled the world and lived in amazing places. I am originally from Argentina. I lived some time in Verona (Italy), around 10 years in London(UK) and now I'm living in Curitiba, Brazil. Spanish is my native language. I also speak fluently Portuguese and English.</h3>
+<h3 align="center">My name is Ana Crosatto and I'm passionate about technology, neuroscience, astronomy and life in general. I have been learning programming since January 2022! I have traveled the world and lived in amazing places. I am originally from Argentina. I lived some time in Verona (Italy), around 10 years in London(UK) and now I'm living in Curitiba, Brazil. Spanish is my native language. I also speak fluently Portuguese and English.</h3>
 
-- 🌱 I’m currently learning **pygame and Tkinter**
+- 🌱 Currently learning:
+- Data Analysis in Python, Dataquest.io
+- Computer Science degree, Descomplica
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
